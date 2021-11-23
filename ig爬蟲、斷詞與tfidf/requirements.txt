@@ -1,6 +1,6 @@
-pip install selenium
-pip install pandas
-pip install ckiptagger
-pip install gdown
-pip install scikit-learn
-pip install tqdm
+selenium
+pandas
+ckiptagger
+gdown
+scikit-learn
+tqdm
