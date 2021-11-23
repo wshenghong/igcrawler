@@ -1,5 +1,0 @@
-pip install selenium
-pip install ckiptagger
-pip install gdown
-pip install scikit-learn
-pip install emoji
