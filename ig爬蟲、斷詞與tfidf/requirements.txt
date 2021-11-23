@@ -1,0 +1,3 @@
+pip install ckiptagger
+pip install gdown
+pip install scikit-learn
