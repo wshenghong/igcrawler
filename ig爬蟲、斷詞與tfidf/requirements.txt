@@ -4,3 +4,4 @@ ckiptagger
 gdown
 scikit-learn
 tqdm
+tensorflow
