@@ -5,3 +5,4 @@ gdown
 scikit-learn
 tqdm
 tensorflow
+openpyxl
