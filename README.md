@@ -1,3 +1,3 @@
 ig爬蟲、計算tfidf  
-crawl the instagram and calculate the tfidf score
+crawl the instagram,word segment and calculate the tfidf score
 
