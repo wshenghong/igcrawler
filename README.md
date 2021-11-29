@@ -1,3 +1,3 @@
-ig爬蟲、計算tfidf  
-crawl the instagram,word segment and calculate the tfidf score
+ig爬蟲、使用cikptagger斷詞、計算tfidf  
+Crawling the instagram and using ckiptagger to segment words then calculate the tfidf score
 
